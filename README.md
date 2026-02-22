@@ -1,8 +1,8 @@
 Rust handbook <br>
- 1. Rust Intro 
-   1.1. Variables
-   1.2. Datatypes
-   1.3. Control Flow
-   1.4. Loops
- 2. Ownership
-   1.1. What is ownership?
+ 1. Rust Intro <br>
+   1.1. Variables <br>
+   1.2. Datatypes <br>
+   1.3. Control Flow <br>
+   1.4. Loops <br>
+ 2. Ownership <br>
+   1.1. What is ownership? <br>
