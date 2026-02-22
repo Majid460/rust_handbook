@@ -1,4 +1,4 @@
-Rust handbook
+Rust handbook <br>
  1. Rust Intro 
    1.1. Variables
    1.2. Datatypes
