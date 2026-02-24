@@ -5,6 +5,8 @@ use crate::basic::datatypes::data_types;
 use crate::basic::functions::functions;
 use crate::basic::variables::variable;
 use crate::basic::control_flow::control_flow;
+use crate::ownership::intro_to_ownership::intro_to_ownership;
+use crate::ownership::slice_type::slice_type;
 
 fn main() {
    //  println!("Hello, world!");
@@ -33,8 +35,11 @@ fn main() {
    //  println!("You entered a: {0}", a);
    //  println!("You entered b: {0}", b);
 
-    variable();
-    data_types();
-    functions();
-    control_flow();
+    // variable();
+    // data_types();
+    // functions();
+    // control_flow();
+
+    //intro_to_ownership();
+    slice_type();
 }
